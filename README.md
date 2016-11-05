@@ -1,2 +1,2 @@
 # Interactive Youtube Downloader
-Started to learn things
+A simple UI tool to donwload the youtube video when the link is provided.
